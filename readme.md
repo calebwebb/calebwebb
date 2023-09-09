@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-    <b>I'm Caleb</b> - I'm a Network Engineer and Developer.<br> I'm interested in development, automation and enterprise networking. 
+    <b>I'm Caleb</b> - I'm a Network Engineer and Developer.<br> Areas of interest: Development, automation and enterprise networking. 
 </p>
 
 <p align="center">
