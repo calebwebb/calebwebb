@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,powershell,flask,html,css,cs,cpp"/>
+    <img src="https://skillicons.dev/icons?i=py,powershell,bash"/>
 </p>
 
 <p align="center">
