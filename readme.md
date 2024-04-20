@@ -10,12 +10,6 @@
     <img src="https://skillicons.dev/icons?i=py,powershell,bash"/>
 </p>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/caleb-webb/">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin"/>
-    </a>
-</p>
-
 ### Projects:
 - Enterprise Service Desk Multi-Tool - User & Device Management
 - Enterprise Geo-fence Management - Request, Approve & Process
