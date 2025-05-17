@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,powershell,bash"/>
+    <img src="https://skillicons.dev/icons?i=py,powershell,go,bash"/>
 </p>
 
 ### Projects:
