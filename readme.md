@@ -3,15 +3,9 @@
 </h3>
 
 <p align="center">
-    <b>I'm Caleb</b> - I'm a Network Engineer and Developer.<br> Areas of interest: Development, automation and enterprise networking. 
+    <b>I'm Caleb</b> - I'm a Sr. Infrastructure Engineer<br> Areas of interest: DevOps, SRE and Cloud Engineering.
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,powershell,go,bash"/>
+    <img src="https://skillicons.dev/icons?i=py,go,powershell,bash"/>
 </p>
-
-### Projects:
-- Enterprise Service Desk Multi-Tool - User & Device Management
-- Enterprise Geo-fence Management - Request, Approve & Process
-- Enterprise Network Switch Upgrade Validation Tool
-- <a href="https://github.com/Chameleon-company/MOP"> City of Melbourne Open Data Playground</a> - Web Development
